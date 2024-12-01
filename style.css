@@ -20,6 +20,8 @@
     --light-gray: hsl(0, 0%, 84%);
     --light-gray70: hsla(0, 0%, 84%, .7);
     --bittersweet-shimmer: hsl(0, 43%, 51%);
+    
+    -webkit-tap-highlight-color: transparent;
 
     --ff-poppins: 'Roboto Slab';
 
