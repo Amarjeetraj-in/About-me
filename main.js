@@ -131,7 +131,3 @@ for(let i = 0; i < navigationLinks.length; i++) {
     });
 }
 
-window.addEventListener('load', () => {
-  document.body.classList.add('loaded');
-});
-
