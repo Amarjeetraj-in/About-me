@@ -126,6 +126,10 @@ main {
   100% { filter: hue-rotate(360deg); }
 }
 
+body.loaded .loader2 {
+  display: none;
+}
+
 
 .sidebar, article {
     background: var(--eerie-black2);
