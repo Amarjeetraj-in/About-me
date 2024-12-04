@@ -94,6 +94,18 @@ main {
 }
 
 /* HTML: <div class="loader"></div> */
+.preloader {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 9999;
+        background: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 .loader2 {
   width: 50px;
   aspect-ratio: 1;
